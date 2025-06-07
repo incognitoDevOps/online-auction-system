@@ -15,9 +15,9 @@ export const handleSendMessage = async (req, res) => {
             html: adminEmailTemplate(name, email, subject, message)
         },
         {
-            from: `Avnish Kumar <hi@ihavetech.com>`,
+            from: `Brian Adem <hi@ihavetech.com>`,
             to: email,
-            subject: `Reply from Avnish Kumar`,
+            subject: `Reply from Brian Adem`,
             html: userEmailTemplate(name, email, subject, message)
         }]
         );
@@ -89,7 +89,7 @@ const userEmailTemplate = (name, email, subject, message) => `
         </p>
 
         <div class="footer">
-          &copy; 2025 Onlie Auction (Avnish Kumar). All rights reserved. <br />
+          &copy; 2025 Onlie Auction (Brian Adem). All rights reserved. <br />
           This is an automated confirmation. Please do not reply.
         </div>
       </div>
