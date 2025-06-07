@@ -4,9 +4,7 @@ An online auction platform built with the **MERN stack**, offering secure login,
 
 ## 🌐 Live Preview
 
-🔗 [Visit Website](https://auction.ihavetech.com)
-
-![Auction App Preview](https://github.com/user-attachments/assets/719ec319-d1d3-4e17-9b0b-ae5db8cfd6b4)
+🔗 [Visit Website](https://online-auction-system-frontend-jet.vercel.app/)
 
 ---
 
