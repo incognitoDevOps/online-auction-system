@@ -1,6 +1,6 @@
 # 🛒 Online Auction System – MERN Stack Web App
 
-An online auction platform built with the **MERN stack**, offering secure login, cookie-based authentication, and user login tracking. Real-time bidding support is **coming soon**! Ideal for full-stack learners and developers, with a clean, modular architecture.
+An online auction platform built with the **MERN stack**, offering secure login, cookie-based authentication, and user login tracking.
 
 ## 🌐 Live Preview
 
@@ -178,5 +178,3 @@ Helps detect suspicious activity and prevents abuse.
 4. Push and open a Pull Request (PR)
 
 ---
-
-Let me know if you want this exported as a `.md` file or styled for GitHub Pages / documentation site.
